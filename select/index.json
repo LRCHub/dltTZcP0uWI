@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "共鳴世界の存在論",
+  "base_artist": "二宮飛鳥 (CV: 青木志貴)",
+  "createdAt": "2026-03-01T03:31:20.682740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "共鳴世界の存在論 (オリジナル・カラオケ)",
+      "artist": "二宮飛鳥",
+      "has_synced": true,
+      "path": "select/01_共鳴世界の存在論_(オリジナル・カラオケ)_二宮飛鳥.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "共鳴世界の存在論",
+      "artist": "二宮飛鳥 (CV: 青木志貴)",
+      "has_synced": true,
+      "path": "select/02_共鳴世界の存在論_二宮飛鳥_(CV__青木志貴).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "共鳴世界の存在論",
+      "artist": "二宮飛鳥(CV:青木志貴)",
+      "has_synced": true,
+      "path": "select/03_共鳴世界の存在論_二宮飛鳥(CV_青木志貴).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "共鳴世界の存在論 (オリジナル・カラオケ)",
+      "artist": "二宮飛鳥(CV:青木志貴)",
+      "has_synced": false,
+      "path": "select/04_共鳴世界の存在論_(オリジナル・カラオケ)_二宮飛鳥(CV_青木志貴).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "共鳴世界の存在論",
+      "artist": "青木志貴",
+      "has_synced": true,
+      "path": "select/05_共鳴世界の存在論_青木志貴.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "共鳴世界の存在論",
+      "artist": "二宮飛鳥",
+      "has_synced": true,
+      "path": "select/06_共鳴世界の存在論_二宮飛鳥.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "共鳴世界の存在論",
+      "artist": "二宮飛鳥 (青木志貴)",
+      "has_synced": false,
+      "path": "select/pl_01_共鳴世界の存在論_二宮飛鳥_(青木志貴).txt"
+    }
+  ]
+}
